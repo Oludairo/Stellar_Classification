@@ -1,0 +1,2 @@
+# Stellar_Classification
+The early cataloguing of stars and their distribution in the sky has led to the understanding that they make up our own galaxy and, following the distinction that Andromeda was a separate galaxy to our own, numerous galaxies began to be surveyed as more powerful telescopes were built which as a result lead to building a model that can easily classify between different stars using a powerful telescope.
